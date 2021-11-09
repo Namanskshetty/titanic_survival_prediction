@@ -19,3 +19,4 @@ This is titanic survival prediction ml model with all the prediction models, cho
    
  ## Colab link:
  <a href="https://colab.research.google.com/drive/1gp_AbLeAOY2Zc9_-9lE4LOYox-HKWTlF?usp=sharing" >Project</a><br>
+ * Create your own colab with the ipynb file in the repo
