@@ -149,7 +149,8 @@ data_test.head(10)
 last = data_test.iloc[:, 1:8].values 
 myid=892
 
-pred = model[1].predict(last)
+my=int(input("Enter the model number "))
+pred = model[my].predict(last)
 print(pred)
 
 list1 = pred.tolist()
